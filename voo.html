@@ -25,7 +25,7 @@
         height: 100vh;  /* Set height to 100% of the viewport height */
         width: 100vw;  /* Set width to 100% of the viewport width */
         border: none; /* Remove default border */
-        background: lightyellow; /* Just for styling */
+        background: transparent; /* Just for styling */
     }
 </style>
     </head>
@@ -40,7 +40,7 @@ img-rounded" width="170">
 <a class="btn btn-outline-info btn-sm" href="https://t.me/@tvisia" role="button">Telegram</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
+                    <ul class="navbar-nav me-auto mb-2 mb-sm-0 ms-sm-4">
                         <li class="nav-item"><a class="nav-link"></a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">TV App Archive</a>
@@ -131,7 +131,7 @@ img-rounded" width="170">
             </div>
         </section>
         <!-- Footer-->
-       <p> <footer class="text-center bg-dark text-light p-3 fixed-bottom">
+       <p> <footer class="text-center bg-dark text-light p-0 fixed-bottom">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
@@ -147,7 +147,9 @@ img-rounded" width="170">
           <option value="mac">Portal</option>
         </select>
       <input type="text" class="form-outline mb-1" placeholder="Filesearch" id="search-input">
-    <button type="button" class="btn btn-info" id="search-button" onclick="search()">🔍</button> </center>     </div>
+    <button type="button" class="btn btn-info" id="search-button" onclick="search()">
+  <img src="https://www.svgrepo.com/show/457579/3d-box.svg">
+    </button> </center>  </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
@@ -156,12 +158,12 @@ img-rounded" width="170">
   var category = document.getElementById("category-select").value;
   var website = 'https://yandex.ru/search?text=';
   var inURL = ' -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)';
-  var finURL = ' intitle:index.of -inurl:(listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)';
+  var finURL = ' intitle:index.of -inurl:(listen77|apkpure|tvisia|djjubeemedia|mp3raid|mp3toss|mp3drug|index_of|wallywashis)';
   // Tableau des formats de fichiers par catégorie
   var formats = {
     "video": '(wmv|mpg|avi|mp4|mkv|mov)',
     "audio": '(ac3|flac|m4a|mp3|ogg|wav|wma)',
-    "ebook": '(pdf|epub)',
+    "ebook": '(svg)',
     "image": '(bmp|gif|jpg|png|psd|tif|tiff|favico|)',
     "software": '(apk|exe|iso|dmg)',
     "documents": '(doc|docx|xls|xlsx|ppt|pptx)',
