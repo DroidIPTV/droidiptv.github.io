@@ -9,7 +9,7 @@
          <meta name="keywords" content="tvisia,android,tv,stb,fire,os,stick,box,tv,iptv,kodi,vpn,dns,tools,apps,apk,plugin,addons,tool">
          <meta name="language" content="DE">
     <meta name="robots" content="index,nofollow">
-        <title>TVISIA | Web TV & VODV</title>
+        <title>TVISIA | Web TV & VOD</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap icons-->
@@ -135,7 +135,8 @@ img-rounded" width="170">
      <!-- Suchmaschine erweitert-->
    <center>
                                       <div>
-        <select id="category-select">
+          <select class="form-control-sm bg-dark text-white" id="category-select">                              
+    <!--    <select id="category-select" > -->
           <option value="all">Alle<option>
           <option value="video">Video</option>
           <option value="audio">Audio</option>
@@ -146,10 +147,9 @@ img-rounded" width="170">
           <option value="archive">Archiv</option>
           <option value="mac">Portal</option>
         </select>
-      <input type="text" class="form-outline mb-1" placeholder="Filesearch" id="search-input">
-    <button type="button" class="btn btn-info" id="search-button" onclick="search()">
-  <img src="https://www.svgrepo.com/show/457579/3d-box.svg">
-    </button> </center>  </div>
+      <input type="text" class="form-outline bg-dark text-white mb-0 sm" placeholder="erweiterte Suche" id="search-input">
+    <button type="button" class="btn btn-outline-info btn-sm" id="search-button" onclick="search()">
+  Suche</button> </center>  </div>
 <script type="text/javascript">
     function search() {
   // Récupération de la valeur du champ de recherche
