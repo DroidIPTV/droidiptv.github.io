@@ -3845,7 +3845,8 @@ textarea.form-control-lg {
   width: 1.5em;
   height: 1.5em;
   vertical-align: middle;
-  background-image: var(--bs-navbar-toggler-icon-bg);
+  background-image: "https://github.com/DroidIPTV/droidiptv.github.io/blob/main/img/blue/dienste.png?raw=true" !important;,
+/*  background-image: var(--bs-navbar-toggler-icon-bg);*/
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
