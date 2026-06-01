@@ -1,6 +1,6 @@
 id="plugin.program.kovisetup"
-version="2.2 3"
-zip="https://github.com/DroidIPTV/repo/raw/refs/heads/main/plugin.program.kovi/plugin.program.kovi-2.1.zip"
+version="2.2.3"
+zip="https://github.com/DroidIPTV/repo/raw/refs/heads/main/plugin.program.kovisetup/plugin.program.kovisetup-2.2.3.zip"
 
 name="KOVI Omega Build"
 version="1.0"
