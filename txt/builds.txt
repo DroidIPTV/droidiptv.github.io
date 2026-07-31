@@ -3,7 +3,7 @@ version="2026.06"
 zip="https://kodi-unlimited-support.de/wizard265"
 
 
-name="KOVI Plus Build (Omega)"
+name="Plus"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/l1bdbrlpnu4vppknr98bm/Plus.zip?rlkey=ekkokxd1bgsuhrlr9fntq1x1r&st=hg6pgfdf&dl=1"
 minor="http://"
