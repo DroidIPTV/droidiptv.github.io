@@ -2,9 +2,10 @@ id="plugin.program.kovisetup"
 version="2026.06"
 zip="https://kodi-unlimited-support.de/wizard265"
 
+
 name="KOVI Plus Build (Omega)"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/l1bdbrlpnu4vppknr98bm/Plus.zip?rlkey=ekkokxd1bgsuhrlr9fntq1x1r&st=no6wz50i&dl=1"
+url="https://www.dropbox.com/scl/fi/l1bdbrlpnu4vppknr98bm/Plus.zip?rlkey=ekkokxd1bgsuhrlr9fntq1x1r&st=hg6pgfdf&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21.0"
