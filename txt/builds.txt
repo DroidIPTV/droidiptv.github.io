@@ -14,7 +14,7 @@ icon="https://raw.githubusercontent.com/DroidIPTV/droidiptv.github.io/refs/heads
 fanart="https://raw.githubusercontent.com/DroidIPTV/droidiptv.github.io/refs/heads/main/img/builds/Plus.png"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
-info="https://raw.githubusercontent.com/DroidIPTV/droidiptv.github.io/refs/heads/main/img/builds/Plus.txt"
+info="https://"
 description="Minimalistisches Build, ausgelegt auf Effizienz. Live TV mit PVR IPTV Cient mit EPG für VAVOO.TO Plugin, Video on Demand mit TMDB Helper, XStream, xShip. Mediathekviewwebv2,  MP3 Streams. Optimal für Fire TV Stick und Android TV Geräte mit Fernbedienung."
 
 name="Michaz Build (Omega)"
@@ -28,7 +28,7 @@ icon="https://i.imgur.com/8zsBfbp.jpeg"
 fanart="https://i.imgur.com/8zsBfbp.jpeg"
 preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
 adult="no"
-info="https://raw.githubusercontent.com/DroidIPTV/droidiptv.github.io/refs/heads/main/img/builds/michaz.txt"
+info="https://"
 description="Einfaches Build für Touchscreen Geräte mit Live TV (PVR mit EPG, VAVOO.TO), Video on Demand (xShip)."
 
 name="K.U.S. AZR Streaming Build"
