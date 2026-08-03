@@ -3,7 +3,7 @@ version="2026.06"
 zip="https://kodi-unlimited-support.de/wizard265"
 
 
-name="Plus"
+name="KOVI Plus Build"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/l1bdbrlpnu4vppknr98bm/Plus.zip?rlkey=ekkokxd1bgsuhrlr9fntq1x1r&st=hg6pgfdf&dl=1"
 minor="http://"
@@ -17,7 +17,7 @@ adult="no"
 info="https://"
 description="Minimalistisches Build, ausgelegt auf Effizienz. Live TV mit PVR IPTV Cient mit EPG für VAVOO.TO Plugin, Video on Demand mit TMDB Helper, XStream, xShip. Mediathekviewwebv2,  MP3 Streams. Optimal für Fire TV Stick und Android TV Geräte mit Fernbedienung."
 
-name="Michaz Build (Omega)"
+name="Michaz Repo Build"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/rlq2xm6ef1lp6j933h6s0/build.zip?rlkey=5147hwwxx7w7s6eblk8bggbgx&st=o3g5vkp4&dl=1"
 minor="http://"
