@@ -1,6 +1,6 @@
 id="plugin.program.kovisetup"
 version="2026.10"
-zip="https://kodi-unlimited-support.de/wizard265"
+zip="https://github.com/DroidIPTV/repo/tree/main/plugin.program.kovisetup/"
 
 
 name="KOVI Plus Build"
