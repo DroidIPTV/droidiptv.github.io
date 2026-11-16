@@ -1,5 +1,5 @@
 id="plugin.program.kovisetup"
-version="2026.06"
+version="2026.10"
 zip="https://kodi-unlimited-support.de/wizard265"
 
 
@@ -19,7 +19,7 @@ description="Minimalistisches Build, ausgelegt auf Effizienz. Live TV mit PVR IP
 
 name="Michaz Repo Build"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/rlq2xm6ef1lp6j933h6s0/build.zip?rlkey=5147hwwxx7w7s6eblk8bggbgx&st=o3g5vkp4&dl=1"
+url="https://www.dropbox.com/scl/fi/kflis4rbid37p0ao6kfsg/build.zip?rlkey=erj1cyttpmdiygsfaffm714td&st=3k6uiqhu&dl=1"
 minor="http://"
 gui="url.to.guisettings"
 kodi="21.0"
